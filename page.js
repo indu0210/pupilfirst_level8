@@ -18,7 +18,7 @@ if (person != null) {
 }
 
 let imagePath = (frameNumber, animation) => {
-    return "https://github.com/indu0210/pupilfirst_level8/tree/main/images"+ animation + "/" + frameNumber + ".png?raw=true";
+    return "https://github.com/indu0210/pupilfirst_level8/tree/main/images/"+ animation + "/" + frameNumber + ".png?raw=true";
 }
 
 let frames = {
